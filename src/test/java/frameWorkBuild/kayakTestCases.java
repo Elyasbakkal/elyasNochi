@@ -32,6 +32,7 @@ public class kayakTestCases {
 	public void AfterMethod() {
 
 		Driver.getDriver().close();
+		System.out.println("hello Elyas");
 
 	}
 
